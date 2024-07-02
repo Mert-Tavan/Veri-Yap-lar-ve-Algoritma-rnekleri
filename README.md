@@ -1,4 +1,4 @@
-Proje 1
+# Proje 1
   [22,27,16,2,18,6] -> Insertion Sort
   
   Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
@@ -13,7 +13,7 @@ Proje 1
   
   [7,3,5,8,2,9,4,15,6] dizisinin Selection Sort'a göre ilk 4 adımını yazınız.
 
-Proje 1 Çözüm
+## Proje 1 Çözüm
 
   ----Insertion Sort 
   Step1: 22 | 27 16 2 18 6
@@ -35,32 +35,32 @@ Proje 1 Çözüm
   Step4: 2,3,4,5,7,9,8,15,6
 
 
-Proje 2
+# Proje 2
   [16,21,11,8,12,22] -> Merge Sort
   
   Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
   Big-O gösterimini yazınız.
 
 
-Proje 2 Çözüm
+## Proje 2 Çözüm
   
-  1 :                 [16,21,11,8,12,22]                          
-  2 :         [16,21,11]                [8,12,22]
-  3 :       [16,21]   [11]            [8,12]    [22]
-  4 :      [16]  [21]  [11]          [8]  [12]  [22]
-  5 :       [16,21]  [11]             [8,12]  [22]
-  6 :         [11,16,21]                [8,12,22]
-  7 :                 [8,11,12,16,21,22]
+    1 :                 [16,21,11,8,12,22]                          
+    2 :         [16,21,11]                [8,12,22]
+    3 :       [16,21]   [11]            [8,12]    [22]
+    4 :      [16]  [21]  [11]          [8]  [12]  [22]
+    5 :       [16,21]  [11]             [8,12]  [22]
+    6 :         [11,16,21]                [8,12,22]
+    7 :                 [8,11,12,16,21,22]
 
   O(nlogn)
 
-Proje 3
+# Proje 3
   [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
   
   Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.
 
 
-Proje 3 Çözüm
+## Proje 3 Çözüm
 
   root: 7 
                          
